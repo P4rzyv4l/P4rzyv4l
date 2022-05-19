@@ -7,7 +7,7 @@ def D(a,b):
     return a / b
 def R(a,b):
     return a - b
-
+#estes uno de mis primeros usos de whilw y el if
 while True:
     print("*** menu principal***")
     print("1. Sumar")
